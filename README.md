@@ -28,4 +28,6 @@ all ODATA concepts are covered for quick creation of odata services in SAP gatew
 
 ##
 
-- Dahboard report YL - odata 
+- Dahboard report YL - ODATA using SEGW
+- Dahboard report YL - ODATA using CDS - ODATA publish
+- Dahboard report YL - ODATA using SEGW - RAP ODATA
