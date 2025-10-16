@@ -25,3 +25,7 @@ all ODATA concepts are covered for quick creation of odata services in SAP gatew
 - $metadata
 - Deep entity (GET, POST, PUT, PATCH , DELETE)
 - Deep entity set (GET, POST, PUT, PATCH , DELETE)
+
+##
+
+- Dahboard report YL - odata 
